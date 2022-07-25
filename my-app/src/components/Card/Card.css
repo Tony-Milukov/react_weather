@@ -1,0 +1,17 @@
+.icon-style {
+  font-size: 10em;
+  color: #44aadd;
+}
+
+.btn {
+  background-color: #44aadd;
+  min-width: 80%;
+  cursor: auto !important;
+}
+
+.card {
+  width: 20rem;
+  padding: 2rem 0;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
