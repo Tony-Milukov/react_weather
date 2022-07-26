@@ -6,7 +6,7 @@ class Card extends React.Component {
 
   render() {    
     const ms = this.props.day.dt * 1000;
-    const weekdayName = new Date(ms).toLocaleString('en', {weekday: 'long'});
+    const weekdayName = new Date(ms).toLocaleString('en' , {weekday: 'long'});
 
     return (
       <div className="col-auto">

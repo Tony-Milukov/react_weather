@@ -12,9 +12,17 @@
   border:1px solid black;
   margin: 15px;
   margin-top: 19px;
+  height: 50px;
+  cursor: pointer;
   max-width: 250px;
+  outline: none;
   width: 100%;
+  padding-left: 1%;
 }
+.cityInput optgroup {
+  overflow-y: auto;
+}
+
 .jumbotron {
   margin-bottom: 1rem !important;
 }
@@ -33,7 +41,9 @@
   color: #61dafb;
 }
 
+@media (max-width: 325px) {
+  .card {
+  width: 17rem !important;
+  }
 
-body {
-  /* background-color: #676b72; */
 }
