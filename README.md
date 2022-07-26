@@ -6,7 +6,7 @@ ___
 3. Open it with php.storm or other code editor.
 4. Open terminal in code editor
 5. Write **npm start**
-6. Go to browser into localhost:300
+6. Go to browser into localhost:3000
 ## Contact
 email: okydri@gmail.com
 
